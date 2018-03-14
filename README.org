@@ -1,0 +1,7 @@
+#+TITLE: README
+
+Helpers for Radare2
+
+#+BEGIN_EXAMPLE
+#!pipe ./lib_entry.byte hello
+#+END_EXAMPLE
